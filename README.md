@@ -1,1 +1,1 @@
-# Ladon.github.io
+<meta http-equiv="Refresh" content="0; url=http://www.baidu.com" /> 
